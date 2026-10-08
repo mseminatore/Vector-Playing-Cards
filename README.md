@@ -64,7 +64,7 @@ To get a particular height, divide it by 1.452 to find the width. For example, `
 
 These images, scripts and their output (for example, custom-sized PNGs) are released into the public domain, or optionally licensed under the [WTFPL][3] in jurisdictions where the public domain is not a recognized legal concept. Either way, do as you see fit: relicense, or embed in commercial, non-commercial or open-source software.
 
-The original source images were released into the public domain by [Byron Knoll][4] on Google Code as [vector-playing-cards][1].
+The original source images were released into the public domain by [Byron Knoll][4] on Google Code as [vector-playing-cards][1]. See [CONTRIBUTORS.md](CONTRIBUTORS.md) for everyone who has worked on this project.
 
  [1]: https://code.google.com/archive/p/vector-playing-cards/
  [2]: https://optipng.sourceforge.net/
